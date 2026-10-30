@@ -7,7 +7,7 @@ A complete hardware and software solution to stream, monitor, and log real-time 
 ## Hardware Setup & Wiring
 
 <p align="center">
-  <img src="IMG20261030111959.jpg" alt="Hardware Wiring Setup" width="600">
+  <img src="GSS_CO2_Sensor/IMG20261030111959.jpg" alt="Hardware Wiring Setup" width="600">
 </p>
 
 ### Connections:
@@ -24,7 +24,7 @@ A complete hardware and software solution to stream, monitor, and log real-time 
 Here is the Python GUI dashboard (`CO2_Dash.py`) in action, featuring live COM port auto-detection, a rolling 60-second t=0 relative plot, and live CSV logging:
 
 <p align="center">
-  <img src="Recording 2026-10-30 113916.gif" alt="Software Demo Animation" width="750">
+  <img src="GSS_CO2_Sensor/Recording 2026-10-30 113916.gif" alt="Software Demo Animation" width="750">
 </p>
 
 ---
